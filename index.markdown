@@ -5,3 +5,8 @@
 layout: page
 ---
 
+## Hi there!
+
+I'm Swapneeth - a Computer Science student @ Carleton University (and previously a Computational, Mathematical, & Statistical Sciences @ the University of Toronto).  
+
+<!--  -->
