@@ -29,19 +29,6 @@ github_username:  dodeca12
 linkedin_username: swapneeth-gorantla
 
 
-# minima:
-#   skin: dark
-#   date_format: "%Y %B %-d"
-#   social_links:
-#     twitter: dodecaTwelve
-#     github: dodeca12
-#     linkedin: swapneeth-gorantla
-
-google_analytics: G-FX9610RGT5
-
-remote_theme: jekyll/minima
-
-
 minima:
   skin: dark
   date_format: "%Y %B %-d"
@@ -49,6 +36,19 @@ minima:
     twitter: dodecaTwelve
     github: dodeca12
     linkedin: swapneeth-gorantla
+
+google_analytics: G-FX9610RGT5
+
+remote_theme: jekyll/minima
+
+
+# minima:
+#   skin: dark
+#   date_format: "%Y %B %-d"
+#   social_links:
+#     twitter: dodecaTwelve
+#     github: dodeca12
+#     linkedin: swapneeth-gorantla
 
 # Build settings
 theme: minima
