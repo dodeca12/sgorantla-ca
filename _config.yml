@@ -24,12 +24,20 @@ description: >- # this means to ignore newlines until "baseurl:"
   @dodeca12
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: dodecaTwelve
+github_username:  dodeca12
+linkedin_username: swapneeth-gorantla
+
 
 minima:
   skin: dark
   date_format: "%Y %B %-d"
+  social_links:
+    twitter: dodecaTwelve
+    github: dodeca12
+    linkedin: swapneeth-gorantla
+
+google_analytics: G-FX9610RGT5
 
 # Build settings
 theme: minima
