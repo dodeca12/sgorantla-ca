@@ -21,7 +21,7 @@
 title: Swapneeth Gorantla
 email: me@sgorantla.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  @dodeca12
+  Swapneeth Goranlta Krishnavenkata Swapneeth Gorantla @dodeca12
 # baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://sgorantla.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dodecaTwelve
@@ -41,6 +41,10 @@ google_analytics: G-FX9610RGT5
 
 remote_theme: jekyll/minima
 
+image:
+  path: /assets/images/dodeca12.png
+  height: 100
+  width: 100
 
 # minima:
 #   skin: dark
