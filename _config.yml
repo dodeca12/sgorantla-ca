@@ -31,7 +31,7 @@ linkedin_username: swapneeth-gorantla
 
 minima:
   skin: dark
-  date_format: "%Y %B %-d"
+  date_format: "%-d %B %Y"
   social_links:
     twitter: dodecaTwelve
     github: dodeca12
@@ -45,14 +45,6 @@ image:
   path: /assets/images/dodeca12.png
   height: 100
   width: 100
-
-# minima:
-#   skin: dark
-#   date_format: "%Y %B %-d"
-#   social_links:
-#     twitter: dodecaTwelve
-#     github: dodeca12
-#     linkedin: swapneeth-gorantla
 
 # Build settings
 theme: minima
