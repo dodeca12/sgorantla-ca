@@ -3,9 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-title: About
+title: About Me
 # show_in_nav: false
-permalink: /about/
+permalink: /about-me/
 ---
 
 ## :wave: Hi there!
