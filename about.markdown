@@ -4,6 +4,7 @@
 
 layout: default
 title: About
+show_in_nav: false
 permalink: /about/
 ---
 

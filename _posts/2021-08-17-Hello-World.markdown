@@ -1,37 +1,22 @@
 ---
 layout: post
 title:  "Hello World!"
-date:   2021-08-17
+author: Swapneeth Gorantla
+date:   2021-08-18
+permalink: /hello-world/
 excerpt_separator: <!--more-->
 ---
-<!-- You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+
+I guess I've finally come around to making my (personal) mark on the webspace - and I've decided to start a blog as well!  
+
 <!--more-->
-<!-- Jekyll requires blog post files to be named according to the following format:
 
-`YEAR-MONTH-DAY-title.MARKUP`
+I've put off creating a website and blog for a while now - in large part due to my indecisiveness with web design (in particular, websites over which I have authoritative control). I tend to change styles and designs quite frequently - and this isn't limited to the web either - I tend to do this with everything from Word documents to PowerPoint presentations to what have you.  
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+And that's not even mentioning the enormous overhead in making modern websites - centring a div, anyone?
 
-Jekyll also offers powerful support for code snippets:
+While I didn't quite want to follow in design philosophy (or lack there-of) of this [website](https://motherfuckingwebsite.com) (or its many [different](bettermotherfuckingwebsite.com) [variants](https://perfectmotherfuckingwebsite.com/)), creating this website using [Jekyll](https://jekyllrb.com) with all the tedious taken care of leaves me to focus on the content.  
 
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
+I've come to love and appreciate blogs and those who write them - in-particular technical and software-engineering related ones (a mainstay of Hacker News). I hope to use this space to share my thoughts on tech, projects, software engineering & the industry or whatever I find interesting.  
 
-```c
-
-int main() {
-  printf("fuck");
-}
-
-```
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/ --> -->
+More to come, but till then follow me on Twitter ([`@dodecaTwelve`](https://twitter.com/dodecaTwelve)), checkout my projects on GitHub ([`dodeca12`](https://github.com/dodeca12)), or drop me an email at `me` [at] `sgorantla` [dot] `ca`.  
