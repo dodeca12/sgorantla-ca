@@ -5,6 +5,7 @@
 layout: default
 title: About Me
 # show_in_nav: false
+# redirect_from: 
 permalink: /about-me/
 ---
 

@@ -21,7 +21,7 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap', '~> 1.4'
   gem 'jekyll-seo-tag', '~> 2.7', '>= 2.7.1'
   gem 'jemoji', '~> 0.12.0'
-  # gem "jekyll-remote-theme"
+  gem 'jekyll-redirect-from', '~> 0.16.0'
   gem 'jekyll-remote-theme', '~> 0.4.2'
 end
 
