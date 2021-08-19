@@ -44,7 +44,16 @@ remote_theme: jekyll/minima
 
 twitter:
   username: dodecaTwelve
-  card: summar
+  card: summary
+
+social:
+  name: Swapneeth Gorantla
+  links: 
+    - https://twitter.com/dodecaTwelve
+    - https://linkedin.com/in/swapneeth-gorantla
+    - https://github.com/dodeca12
+
+timezone: America/Toronto
 
 locale: en_CA
 # excerpt_separator: "<!--more-->"
