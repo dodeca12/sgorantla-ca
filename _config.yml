@@ -21,13 +21,14 @@
 title: Swapneeth Gorantla
 email: me@sgorantla.ca
 description: >- # this means to ignore newlines until "baseurl:"
-  My website
-# baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://sgorantla.ca" # the base hostname & protocol for your site, e.g. http://example.com
+  Swapneeth Gorantla
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://sgorantla.ca" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dodecaTwelve
 github_username:  dodeca12
 linkedin_username: swapneeth-gorantla
 
+author: Swapneeth Gorantla
 
 minima:
   skin: dark
@@ -40,6 +41,17 @@ minima:
 google_analytics: G-FX9610RGT5
 
 remote_theme: jekyll/minima
+
+twitter:
+  username: dodecaTwelve
+  card: summar
+
+locale: en_CA
+# excerpt_separator: "<!--more-->"
+
+# name: Swapneeth Gorantla
+
+show_excerpts: true
 
 image:
   path: /assets/images/dodeca12.png
