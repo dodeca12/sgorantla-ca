@@ -4,5 +4,6 @@
 
 layout: home
 list_title: Posts
+show_excerpts: true
 ---
 
