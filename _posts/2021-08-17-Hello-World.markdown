@@ -15,7 +15,7 @@ I've put off creating a website and blog for a while now - in large part due to 
 
 And that's not even mentioning the enormous overhead in making modern websites - centring a div, anyone?
 
-While I didn't quite want to follow in design philosophy (or lack there-of) of this [website](https://motherfuckingwebsite.com) (or its many [different](http://bettermotherfuckingwebsite.com) [variants](https://perfectmotherfuckingwebsite.com/)), creating this website using [Jekyll](https://jekyllrb.com) with all the tedious taken care of leaves me to focus on the content.  
+While I didn't quite want to follow in design philosophy (or lack thereof) of this [website](https://motherfuckingwebsite.com) (or its many [different](http://bettermotherfuckingwebsite.com) [variants](https://perfectmotherfuckingwebsite.com/)), creating this website using [Jekyll](https://jekyllrb.com) with all the tedious taken care of leaves me to focus on the content.  
 
 I've come to love and appreciate blogs and those who write them - in-particular technical and software-engineering related ones (a mainstay of Hacker News). I hope to use this space to share my thoughts on tech, projects, software engineering & the industry or whatever I find interesting.  
 
