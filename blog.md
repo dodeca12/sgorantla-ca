@@ -4,10 +4,12 @@
 
 layout: home
 title: Blog
+permalink: /blog/
 list_title: Posts
 # redirect_from:
 #     - /about/
 # redirect_to: /about-me/
 ---
 
-~~Lowering your blogging standards~~ :stuck_out_tongue:  
+Welcome to my blog!
+~~Lowering your blogging standards - one post at a time~~ :stuck_out_tongue:  

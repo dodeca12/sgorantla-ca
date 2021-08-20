@@ -34,7 +34,7 @@ layout: default
             {%- if site.show_excerpts -%}
                 {% if post.excerpt != post.content %}
                     {{ post.excerpt }}
-                    <b><i><a href="{{ site.baseurl }}{{ post.url }}">Read more ...</a></i></b>
+                    <u><i><a href="{{ site.baseurl }}{{ post.url }}">Read more ...</a></i></u>
                 {% else %}
                     {{ post.excerpt }}
                 {% endif %}
