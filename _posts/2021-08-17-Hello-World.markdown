@@ -3,7 +3,7 @@ layout: post
 title:  "Hello World!"
 author: Swapneeth Gorantla
 date:   2021-08-18
-permalink: /hello-world/
+permalink: /blog/hello-world/
 excerpt_separator: <!--more-->
 ---
 
