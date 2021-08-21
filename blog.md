@@ -13,3 +13,5 @@ list_title: Posts
 
 Welcome to my blog!
 ~~Lowering your blogging standards - one post at a time~~ :stuck_out_tongue:  
+
+I hope to use this space to share my thoughts on tech, projects, software engineering & the industry or whatever I find interesting.  
